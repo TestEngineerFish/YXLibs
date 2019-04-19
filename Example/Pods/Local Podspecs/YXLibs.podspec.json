@@ -1,0 +1,22 @@
+{
+  "name": "YXLibs",
+  "version": "0.1.0",
+  "summary": "A short description of YXLibs.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tingyusha@kangkanghui.com/YXLibs",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tingyusha@kangkanghui.com": "tingyusha@kangkanghui.com"
+  },
+  "source": {
+    "git": "https://github.com/tingyusha@kangkanghui.com/YXLibs.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YXLibs/Classes/**/*"
+}

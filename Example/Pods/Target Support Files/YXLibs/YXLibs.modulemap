@@ -1,0 +1,6 @@
+framework module YXLibs {
+  umbrella header "YXLibs-umbrella.h"
+
+  export *
+  module * { export * }
+}

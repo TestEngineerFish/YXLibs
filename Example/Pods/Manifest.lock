@@ -1,0 +1,16 @@
+PODS:
+  - YXLibs (0.1.0)
+
+DEPENDENCIES:
+  - YXLibs (from `../`)
+
+EXTERNAL SOURCES:
+  YXLibs:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YXLibs: 654bb3d0814c5edaa35504a77d14484d23477a84
+
+PODFILE CHECKSUM: 4ee27e6125c9ad7579f6f971a4cbf509e2dc2f24
+
+COCOAPODS: 1.6.1
